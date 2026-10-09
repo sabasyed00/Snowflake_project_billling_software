@@ -1,3 +1,4 @@
+
 # Snowflake_project_billling_software
 # Snowflake Billing Software
 
@@ -51,3 +52,8 @@ For 32 units of Hamam at a rate of 35 per unit:
 ## Learning Objectives
 
 This project demonstrates SQL data manipulation, variable declaration, conditional logic, stored procedure development, inventory updates, and sequence-based bill numbering.
+
+##Output
+<img width="1198" height="561" alt="procedure_successful" src="https://github.com/user-attachments/assets/73a882b3-baf8-4f69-a6cc-c088df585a97" />
+<img width="1181" height="242" alt="item_master_table" src="https://github.com/user-attachments/assets/5738a76a-3c45-46e8-bf65-212ee0c63a1c" />
+<img width="1183" height="209" alt="cash_master_table" src="https://github.com/user-attachments/assets/2f3f7982-f9f0-4970-aa5d-721168a44059" />
